@@ -7,6 +7,8 @@
 
 # Start
 
+You can run the app with 
+
 ```html
 tns preview
 # or
